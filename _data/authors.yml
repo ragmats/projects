@@ -1,0 +1,18 @@
+Steven Coy:
+  name: "Steven Coy"
+  bio: "Through years of curiosity and self-taught discipline, I've become proficient with the fundamentals of software and web development. I love being able to see a creative project from start to finish. This is the place to find some of my favorite projects."
+  avatar: "/assets/images/headshot.jpg"
+  links:
+    - label: "stevencoy@gmail.com"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:stevencoy@gmail.com"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/stevenlewiscoy/"
+
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://thewhip.com"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/calebcurry"
