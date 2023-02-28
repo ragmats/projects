@@ -8,7 +8,7 @@ h2 {
 }
 
 .author__avatar > img {
-  border: 1px solid yellow;
-  width: 200%;
-  height: 200%;
+  border: 1px solid orange;
+  min-width: 200px;
+  min-height: 200px;
 }
