@@ -7,7 +7,6 @@ h2 {
   color: rgb(0, 173, 181);
 }
 
-.author__avatar {
-  border: 1px solid yellow;
-  height: 500px;
+img.author__avatar {
+  border: 1px solid red;
 }
