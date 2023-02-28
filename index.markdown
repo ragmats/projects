@@ -12,7 +12,7 @@ author: Steven Coy
 
 ## Web Developer Projects
 
-I am a self-taught web developer who believes in and enjoys project-based learning. I am looking for a role as a full-stack web developer to further develop the skills I have learned and demonstrated in the projects below.
+I am a self-taught web developer who believes in and enjoys project-based learning. I am looking for a role as a full-stack web developer to further develop, and explore beyond, the skills I have learned and demonstrated in the projects below.
 
 ## GridSquid (2022) - Custom Grid Creator
 
