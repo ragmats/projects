@@ -8,12 +8,6 @@ h2 {
 }
 
 .author__avatar > img {
-  border: 1px solid purple;
-  min-width: 100px;
-  min-height: 100px;
-}
-
-.author__avatar {
-  justify-content: center;
-  align-items: center;
+  min-width: 110px;
+  min-height: 110px;
 }
