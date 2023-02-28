@@ -20,24 +20,24 @@ I am a self-taught web developer who believes in and enjoys project-based learni
 
 [GridSquid](https://gridsquid.ragmats.com/){:target="\_blank"}{:rel="noopener noreferrer"} is an educational single-page application coded in JavaScript and Python (Django) that lets users make custom grids of images with associated sounds and captions. Originally, the idea was to help toddler-aged kids learn the faces and names of all their relatives, but it developed into a much broader application that is useful in homeschool, language studies, and other general education.
 
-I learned so much from this project, namely how to set up a CRUD-capable backend with user authentication, custom APIs, and integration of open-source libraries, as well as a good understanding of JavaScript concepts like promises, async/await, destructuring, the spread operator, array methods, and the Fetch API (to name a few). I also became more familiar with Git and the deployment process.
+I learned so much from this project, namely how to set up a CRUD-capable backend with user authentication, custom APIs, and integration of open-source libraries, as well as a good understanding of core JavaScript concepts like promises, async/await, destructuring, the spread operator, array methods, and the Fetch API (to name a few). I also became more familiar with Git and the deployment process.
 
 **Features Include:**
 
 - A front-end written in JavaScript, HTML, and responsive CSS ([Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/){:target="\_blank"}{:rel="noopener noreferrer"} in part, the rest hand-coded).
 - Implementation as a single-page application (SPA) with history states for better user navigation.
-- A fully CRUD-capable backend written in [Django](https://www.djangoproject.com/){:target="\_blank"}{:rel="noopener noreferrer"}/Python with many custom-written APIs.
+- A fully CRUD-capable backend written in [Django](https://www.djangoproject.com/){:target="\_blank"}{:rel="noopener noreferrer"}/Python with many custom APIs.
 - User authentication and password resets via email.
 - Guest accounts (w/ same user access) that get deleted every 30 days, checked daily via automated task and custom command.
-- User accounts for creating and storing sets of custom grids storing uploaded images, audio, and/or text captions.
+- User accounts for creating and storing sets of custom grids with uploaded images, audio, and/or text captions.
 - Cropping functionality for user-submitted images using the [Cropper.js](https://fengyuanchen.github.io/cropperjs/){:target="\_blank"}{:rel="noopener noreferrer"} library.
 - Backend image compression using [Pillow](https://python-pillow.org/){:target="\_blank"}{:rel="noopener noreferrer"}.
 - User-uploaded audio files converted to mp3 using [Pydub](http://pydub.com/){:target="\_blank"}{:rel="noopener noreferrer"}.
 - File/mime type validation of image and audio files via [Python Magic](https://github.com/ahupp/python-magic){:target="\_blank"}{:rel="noopener noreferrer"}.
 - The option to record and save audio using [Microphone Recorder to Mp3](https://github.com/closeio/mic-recorder-to-mp3){:target="\_blank"}{:rel="noopener noreferrer"}.
 - A memory game that can be played on any grid complete with sound effects and CSS "card flip" animations.
-- Auto-generated quizzes for any grid that can be taken with audio only, text only, or both.
-- A collection page called "MyGrids" where all user grids can be viewed and organized into albums.
+- Auto-generated quizzes for any grid with that has audio or text (or both).
+- A collection page called "MyGrids" where user grids can be organized into albums.
 - Deployed on [PythonAnywhere](https://pythonanywhere.com/){:target="\_blank"}{:rel="noopener noreferrer"}.
 
 **View this project in action:** [gridsquid.ragmats.com](https://gridsquid.ragmats.com/){:target="\_blank"}{:rel="noopener noreferrer"}
@@ -58,7 +58,7 @@ This project was built with Flask/Python and JavaScript. I learned how to set up
 
 - A main page that gives the user their "oopsie" chance as a percentage based on method inputs and researched data.
 - Responsive design using CSS media queries.
-- Complex algorithms for determining oopsie chance based on date, time, and user inputs.
+- Algorithms that determine an oopsie chance based on date, time, and user inputs.
 - A "permanent" session for a persistent user experience.
 - Time zone localization.
 - A calendar view that displays the current, last, and next week of oopsie chances.
