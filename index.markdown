@@ -12,7 +12,15 @@ author: Steven Coy
 
 ## Web Developer Projects
 
-I am a self-taught web developer who believes in and enjoys project-based learning. I am looking for a role as a full-stack web developer to further develop, and explore beyond, the skills I have learned and demonstrated in the projects below.
+I am a self-taught web developer who believes in and enjoys project-based learning. I am seeking to combine my programming skills with my past experience in project management, design, and customer relations in a role as a front-end web developer in order to further develop, and explore beyond, the knowledge I have acquired and demonstrated in the projects below.
+
+## SIRME (2022) - React Simon Game
+
+<a target="_blank" rel="noopener noreferrer" href="https://sirme.ragmats.com/"><img style="padding: 10px; border: 0px;" src="/assets/images/sirme-logo-dark.svg" alt="SIRME Logo" width="100%"/></a>
+
+[SIRME](https://sirme.ragmats.com/){:target="\_blank"}{:rel="noopener noreferrer"} is a Simon game created in React. Highscores are stored in local storage, so players can enjoy persistent competition wtih friends on the same device.
+
+In this project, I learned how to manage state, execute actions in a timed sequence, properly set and get data in local storage, handle event listeners of keyboard shortcuts, and play sounds simultaneously using the Web Audio API. The UI is responsive, so SIRME can be experienced on both desktop and mobile.
 
 ## GridSquid (2022) - Custom Grid Creator
 
