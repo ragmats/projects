@@ -14,7 +14,7 @@ author: Steven Coy
 
 I am a self-taught web developer who believes in and enjoys project-based learning. I am seeking to combine my programming skills with my past experience in project management, design, and customer relations in a role as a front-end web developer in order to further develop, and explore beyond, the knowledge I have acquired and demonstrated in the projects below.
 
-## SIRME (2022) - React Simon Game
+## SIRME (2023) - React Simon Game
 
 <a target="_blank" rel="noopener noreferrer" href="https://sirme.ragmats.com/"><img style="padding: 10px; border: 0px;" src="/assets/images/sirme-logo-dark.svg" alt="SIRME Logo" width="100%"/></a>
 
