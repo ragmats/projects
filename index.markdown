@@ -22,6 +22,8 @@ I am a self-taught web developer who believes in and enjoys project-based learni
 
 In this project, I learned how to manage state, execute actions in a timed sequence, properly set and get data in local storage, handle event listeners of keyboard shortcuts, and play sounds simultaneously using the Web Audio API. The UI is responsive, so SIRME can be experienced on both desktop and mobile.
 
+[Github Repo](https://github.com/ragmats/sirme){:target="\_blank"}{:rel="noopener noreferrer"}
+
 ## GridSquid (2022) - Custom Grid Creator
 
 <a target="_blank" rel="noopener noreferrer" href="https://gridsquid.ragmats.com/"><img style="padding: 10px; border: 0px; filter: brightness(2.0);" src="https://gridsquid.pythonanywhere.com/static/gridsquid/img/gs_logo_long.svg" alt="GridSquid Logo" width="100%"/></a>
