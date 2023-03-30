@@ -18,7 +18,7 @@ I am a self-taught web developer who believes in and enjoys project-based learni
 
 <a target="_blank" rel="noopener noreferrer" href="https://sirme.ragmats.com/"><img style="padding: 10px; border: 0px;" src="/assets/images/sirme-logo-dark.svg" alt="SIRME Logo" width="100%"/></a>
 
-[SIRME](https://sirme.ragmats.com/){:target="\_blank"}{:rel="noopener noreferrer"} is a Simon game created in React. Highscores are stored in local storage, so players can enjoy persistent competition wtih friends on the same device.
+[SIRME](https://sirme.ragmats.com/){:target="\_blank"}{:rel="noopener noreferrer"} is a Simon game created in React. High scores are stored in local storage, so players can enjoy persistent competition with friends on the same device.
 
 In this project, I learned how to manage state, execute actions in a timed sequence, properly set and get data in local storage, handle event listeners of keyboard shortcuts, and play sounds simultaneously using the Web Audio API. The UI is responsive, so SIRME can be experienced on both desktop and mobile.
 
