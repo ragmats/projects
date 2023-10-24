@@ -26,7 +26,7 @@ I created the developer website, using Next.js, for the client [HISSINGBELL](htt
 - Static site developed using [Next.js](https://nextjs.org/){:target="\_blank"}{:rel="noopener noreferrer"}.
 - Layered SVG parallax effects using [React Scroll Parallax](https://react-scroll-parallax.damnthat.tv/docs/intro){:target="\_blank"}{:rel="noopener noreferrer"}.
 - Image carousel using [React-multi-carousel ](https://react-multi-carousel.vercel.app/){:target="\_blank"}{:rel="noopener noreferrer"}.
-- Site-wide light/Dark mode functionality saved to Local Storage.
+- Site-wide light/dark mode saved to Local Storage.
 - Deployed on [DigitalOcean](https://docs.digitalocean.com/developer-center/deploying-a-next.js-application-on-a-digitalocean-droplet/){:target="\_blank"}{:rel="noopener noreferrer"}.
 
 ## SIRME (2023) - React Simon Game
