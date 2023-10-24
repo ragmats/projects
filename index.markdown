@@ -16,13 +16,13 @@ I am a self-taught web developer who believes in and enjoys project-based learni
 
 ## HISSINGBELL (2023) - VR Game Studio Developer Website
 
-<a target="_blank" rel="noopener noreferrer" href="https://hissingbell.studio/"><img style="padding: 10px; border: 0px;" src="/assets/images/YFY_Logo.png" alt="HSSINGBELL YoFengYo Logo" width="100%"/></a>
+<a target="_blank" rel="noopener noreferrer" href="https://hissingbell.studio/"><img style="padding: 10px; border: 0px;" src="/assets/images/hissingbell.svg" alt="HSSINGBELL Logo" width="100%"/></a>
 
 For this project, I created the developer website (using Next.js) for the client [HISSINGBELL](https://hissingbell.studio/){:target="\_blank"}{:rel="noopener noreferrer"}, a San Diego, California based VR game studio.
 
 **This job includes:**
 
-- Ongoing client/developer workflow involving virtual meetings and design mock-ups.
+- Ongoing client/developer collaboration involving virtual meetings, design mock-ups, and Git workflow.
 - Static site developed using ([Next.js](https://nextjs.org/){:target="\_blank"}{:rel="noopener noreferrer"}.
 - Layered SVG parallax effects using ([React Scroll Parallax](https://react-scroll-parallax.damnthat.tv/docs/intro){:target="\_blank"}{:rel="noopener noreferrer"}.
 - Image carousel using ([React-multi-carousel ](https://react-multi-carousel.vercel.app/){:target="\_blank"}{:rel="noopener noreferrer"}.
