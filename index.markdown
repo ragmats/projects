@@ -14,7 +14,7 @@ author: Steven Coy
 
 I am a self-taught web developer who believes in and enjoys project-based learning. I seek to combine my programming skills with my past experience in project management, design, and customer relations in a role as a web developer in order to further develop, and explore beyond, the knowledge I have acquired and demonstrated in the projects below.
 
-## HISSINGBELL (2023) - VR Game Studio Developer Website
+## HISSINGBELL (2023) - Developer Website
 
 <a target="_blank" rel="noopener noreferrer" href="https://hissingbell.studio/"><img style="padding: 10px; border: 0px;" src="/assets/images/hissingbell.svg" alt="HSSINGBELL Logo" width="100%"/></a>
 
