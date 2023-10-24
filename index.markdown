@@ -16,7 +16,7 @@ I am a self-taught web developer who believes in and enjoys project-based learni
 
 ## HISSINGBELL (2023) - Developer Website
 
-<a target="_blank" rel="noopener noreferrer" href="https://hissingbell.studio/"><img style="padding: 10px; border: 0px;" src="/assets/images/hissingbell.svg" alt="HSSINGBELL Logo" width="100%"/></a>
+<a target="_blank" rel="noopener noreferrer" href="https://hissingbell.studio/"><img style="padding: 10px; border: 0px;" src="/assets/images/hissingbell.png" alt="HISSINGBELL Logo" width="100%"/></a>
 
 For this project, I created the developer website (using Next.js) for the client [HISSINGBELL](https://hissingbell.studio/){:target="\_blank"}{:rel="noopener noreferrer"}, a San Diego, California based VR game studio.
 
