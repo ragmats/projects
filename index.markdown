@@ -18,14 +18,14 @@ I am a self-taught web developer who believes in and enjoys project-based learni
 
 <a target="_blank" rel="noopener noreferrer" href="https://hissingbell.studio/"><img style="padding: 10px; border: 0px;" src="/assets/images/hissingbell.png" alt="HISSINGBELL Logo" width="100%"/></a>
 
-For this project, I created the developer website (using Next.js) for the client [HISSINGBELL](https://hissingbell.studio/){:target="\_blank"}{:rel="noopener noreferrer"}, a San Diego, California based VR game studio.
+I created the developer website, using Next.js, for the client [HISSINGBELL](https://hissingbell.studio/){:target="\_blank"}{:rel="noopener noreferrer"}, a San Diego, California based VR game studio.
 
 **This job includes:**
 
 - Ongoing client/developer collaboration involving virtual meetings, design mock-ups, and Git workflow.
-- Static site developed using ([Next.js](https://nextjs.org/){:target="\_blank"}{:rel="noopener noreferrer"}.
-- Layered SVG parallax effects using ([React Scroll Parallax](https://react-scroll-parallax.damnthat.tv/docs/intro){:target="\_blank"}{:rel="noopener noreferrer"}.
-- Image carousel using ([React-multi-carousel ](https://react-multi-carousel.vercel.app/){:target="\_blank"}{:rel="noopener noreferrer"}.
+- Static site developed using [Next.js](https://nextjs.org/){:target="\_blank"}{:rel="noopener noreferrer"}.
+- Layered SVG parallax effects using [React Scroll Parallax](https://react-scroll-parallax.damnthat.tv/docs/intro){:target="\_blank"}{:rel="noopener noreferrer"}.
+- Image carousel using [React-multi-carousel ](https://react-multi-carousel.vercel.app/){:target="\_blank"}{:rel="noopener noreferrer"}.
 - Site-wide light/Dark mode functionality saved to Local Storage.
 - Deployed on [DigitalOcean](https://docs.digitalocean.com/developer-center/deploying-a-next.js-application-on-a-digitalocean-droplet/){:target="\_blank"}{:rel="noopener noreferrer"}.
 
