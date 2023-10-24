@@ -12,17 +12,22 @@ author: Steven Coy
 
 ## Web Developer Projects
 
-I am a self-taught web developer who believes in and enjoys project-based learning. I am seeking to combine my programming skills with my past experience in project management, design, and customer relations in a role as a front-end web developer in order to further develop, and explore beyond, the knowledge I have acquired and demonstrated in the projects below.
+I am a self-taught web developer who believes in and enjoys project-based learning. I seek to combine my programming skills with my past experience in project management, design, and customer relations in a role as a web developer in order to further develop, and explore beyond, the knowledge I have acquired and demonstrated in the projects below.
 
-## SIRME (2023) - React Simon Game
+## HISSINGBELL (2023) - VR Game Studio Developer Website
 
-<a target="_blank" rel="noopener noreferrer" href="https://sirme.ragmats.com/"><img style="padding: 10px; border: 0px;" src="/assets/images/sirme-logo-dark.svg" alt="SIRME Logo" width="100%"/></a>
+<a target="_blank" rel="noopener noreferrer" href="https://hissingbell.studio/"><img style="padding: 10px; border: 0px;" src="/assets/images/YFY_Logo.png" alt="HSSINGBELL YoFengYo Logo" width="100%"/></a>
 
-[SIRME](https://sirme.ragmats.com/){:target="\_blank"}{:rel="noopener noreferrer"} is a Simon game created in React. High scores are stored in local storage, so players can enjoy persistent competition with friends on the same device.
+For this project, I created the developer website (using Next.js) for the client [HISSINGBELL](https://hissingbell.studio/){:target="\_blank"}{:rel="noopener noreferrer"}, a San Diego, California based VR game studio.
 
-In this project, I learned how to manage state, execute actions in a timed sequence, properly set and get data in local storage, handle event listeners of keyboard shortcuts, and play sounds simultaneously using the Web Audio API. The UI is responsive, so SIRME can be experienced on both desktop and mobile.
+**This job includes:**
 
-[Github Repo](https://github.com/ragmats/sirme){:target="\_blank"}{:rel="noopener noreferrer"}
+- Ongoing client/developer workflow involving virtual meetings and design mock-ups.
+- Static site developed using ([Next.js](https://nextjs.org/){:target="\_blank"}{:rel="noopener noreferrer"}.
+- Layered SVG parallax effects using ([React Scroll Parallax](https://react-scroll-parallax.damnthat.tv/docs/intro){:target="\_blank"}{:rel="noopener noreferrer"}.
+- Image carousel using ([React-multi-carousel ](https://react-multi-carousel.vercel.app/){:target="\_blank"}{:rel="noopener noreferrer"}.
+- Site-wide light/Dark mode functionality saved to Local Storage.
+- Deployed on [DigitalOcean](https://docs.digitalocean.com/developer-center/deploying-a-next.js-application-on-a-digitalocean-droplet/){:target="\_blank"}{:rel="noopener noreferrer"}.
 
 ## SIRME (2023) - React Simon Game
 
